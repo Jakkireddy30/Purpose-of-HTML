@@ -1,0 +1,70 @@
+.bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/chatbg.png");
+}
+
+.heading {
+    color: black;
+    font-size: 10px;
+    font-family: "Roboto";
+    padding: 0px;
+
+}
+
+.person-name {
+    text-align: center;
+    color: #ffffff;
+    background-color: #075E54;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: 600;
+    padding: 18px;
+}
+
+.messages-container {
+    padding: 20px;
+}
+
+.message-text {
+    color: Black;
+    font-family: "Roboto";
+    font-size: 14px;
+    padding: 10px;
+}
+
+.message-received {
+    background-color: white;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+    margin: 8px;
+}
+
+.message-sent {
+    text-align: right;
+    background-color: #dcf8c6;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    color: black;
+    margin: 8px;
+}
+
+.newyear {
+    height: 200px;
+    width: 200px;
+}
+
+.phone {
+    color: pink;
+    font-size: 15px;
+}
+
+.phone1{
+    color: orange;
+    font-size: 15px;
+}
+
+.phone2{
+    color: violet;
+    font-size: 15px;
+}
